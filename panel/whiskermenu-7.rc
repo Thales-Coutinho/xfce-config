@@ -1,5 +1,5 @@
 favorites=firefox-esr.desktop,xfce4-file-manager.desktop,org.remmina.Remmina.desktop,code.desktop,jetbrains-idea-ce.desktop,com.bitwarden.desktop.desktop,net.cozic.joplin_desktop.desktop,rest.insomnia.Insomnia.desktop,io.dbeaver.DBeaverCommunity.desktop,org.onlyoffice.desktopeditors.desktop,com.discordapp.Discord.desktop,org.localsend.localsend_app.desktop,com.transmissionbt.Transmission.desktop,io.gitlab.news_flash.NewsFlash.desktop,com.obsproject.Studio.desktop,com.stremio.Stremio.desktop,Deezer.desktop
-recent=firefox-esr.desktop,code.desktop,org.remmina.Remmina.desktop,com.stremio.Stremio.desktop,xfce4-file-manager.desktop,com.bitwarden.desktop.desktop,Deezer.desktop,lightdm-gtk-greeter-settings.desktop,org.gnome.DiskUtility.desktop,xfce4-power-manager-settings.desktop
+recent=xfce4-file-manager.desktop,firefox-esr.desktop,blueman-manager.desktop,code.desktop,org.remmina.Remmina.desktop,com.stremio.Stremio.desktop,com.bitwarden.desktop.desktop,Deezer.desktop,lightdm-gtk-greeter-settings.desktop,org.gnome.DiskUtility.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-single-row=false
 show-button-title=false
