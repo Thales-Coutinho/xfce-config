@@ -25,7 +25,7 @@ network-manager-gnome
 
 xfce4-terminal
 
-xfce4-screenshooter
+flameshot
 
 gnome-disk-utility
 
